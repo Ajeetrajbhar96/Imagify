@@ -25,7 +25,7 @@ const Footer = () => {
                             <a href="https://www.linkedin.com/in/ajeet-rajbhar-826099293/" className="w-8 h-8 flex items-center justify-center rounded-full border border-gray-200 hover:border-gray-400 transition-colors">
                                 <img src={assets.linkedin_icon} alt="linkedin" className="w-4 h-4" />
                             </a>
-{/*                             <a href="https://www.instagram.com/singh04_ayush/" className="w-8 h-8 flex items-center justify-center rounded-full border border-gray-200 hover:border-gray-400 transition-colors">
+{/*                             <a href="https://www.linkedin.com/in/ajeet-rajbhar-826099293/" className="w-8 h-8 flex items-center justify-center rounded-full border border-gray-200 hover:border-gray-400 transition-colors">
                                 <img src={assets.instagram_icon} alt="Instagram" className="w-4 h-4" />
                             </a> */}
                         </div>
